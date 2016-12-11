@@ -18,9 +18,8 @@ toFixed(number, [number of digits to appear after the decimal point])
 
 for non valid numbers will return NaN and for `null` will return 0
 
-### examples
+### example
 
-#### first example
 ```js
 const toFixed = require('number-to-fixed')
 

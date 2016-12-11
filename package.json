@@ -44,6 +44,5 @@
   "pre-commit": [
     "test",
     "coverage:check"
-  ],
-  "dependencies": {}
+  ]
 }
